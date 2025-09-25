@@ -1,0 +1,111 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Seite-1" id="YPt_nJb8HxWPHlI-M9Ic">
+    <mxGraphModel dx="1426" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdiS6IfHSnTsfNtR3vpw-1" target="DdiS6IfHSnTsfNtR3vpw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdiS6IfHSnTsfNtR3vpw-2" target="DdiS6IfHSnTsfNtR3vpw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-2" value="defined variablen :&lt;div&gt;&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;name&lt;/font&gt;:&quot;Ali&quot;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;country&lt;/font&gt;:&quot;iran&quot;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;Age&lt;/font&gt;:&quot;48&quot;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;resul&lt;/font&gt;t:NULL&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="170" width="135" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-4" value="Process: mens when your app shall do something itself" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="165" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
+          <mxGeometry x="170" y="187.5" width="80" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-8" value="create &quot;Hello my nam e ist Ali and i am 48 yerars old&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-10" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-12" value="&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;Result&lt;/font&gt;&amp;nbsp;=&quot;Hello my name is + &quot;&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;name&lt;/font&gt;&quot;&amp;nbsp; + and i am + &quot;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;age&lt;/font&gt;&quot; + yerasold and Icome from + &quot;&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;country&lt;/font&gt;&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdiS6IfHSnTsfNtR3vpw-13" target="DdiS6IfHSnTsfNtR3vpw-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-13" value="print:result" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="720" width="705" height="705" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="454.2856888246083" y="785" as="sourcePoint" />
+            <mxPoint x="454.2856888246083" y="805" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="860" as="sourcePoint" />
+            <mxPoint x="395" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-19" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="355" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-20" value="input: name, country , age" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="840" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Text Generator process&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="720" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdiS6IfHSnTsfNtR3vpw-22" target="DdiS6IfHSnTsfNtR3vpw-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DdiS6IfHSnTsfNtR3vpw-26">
+          <mxGeometry x="-0.1143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdiS6IfHSnTsfNtR3vpw-22" target="DdiS6IfHSnTsfNtR3vpw-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-31" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DdiS6IfHSnTsfNtR3vpw-30">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-22" value="ali input exists" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="940" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pseudo Code&lt;/h1&gt;&lt;div&gt;START&lt;/div&gt;&lt;div&gt;SET name=Ali&lt;/div&gt;&lt;div&gt;SET country:Iran&lt;/div&gt;&lt;div&gt;SET age:48&lt;/div&gt;&lt;div&gt;SET result:NULL&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;text-align: center; color: rgb(0, 127, 255);&quot;&gt;Result&lt;/font&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&amp;nbsp;=&quot;Hello my name is + &quot;&lt;/span&gt;&lt;font style=&quot;text-align: center; color: rgb(0, 102, 204);&quot;&gt;name&lt;/font&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&quot;&amp;nbsp; + and i am + &quot;&lt;/span&gt;&lt;font style=&quot;text-align: center; color: rgb(0, 127, 255);&quot;&gt;age&lt;/font&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&quot; + yerasold and Icome from &quot;&lt;/span&gt;&lt;font style=&quot;text-align: center; color: rgb(0, 102, 204);&quot;&gt;country&lt;/font&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&quot;&amp;nbsp; PRINT result&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" width="330" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdiS6IfHSnTsfNtR3vpw-24" target="DdiS6IfHSnTsfNtR3vpw-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-24" value="Print: Error" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DdiS6IfHSnTsfNtR3vpw-28" target="DdiS6IfHSnTsfNtR3vpw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-28" value="&lt;br&gt;&lt;font style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 127, 255);&quot;&gt;Result&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;=&quot;Hello my name is + &quot;&lt;/span&gt;&lt;font style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 102, 204);&quot;&gt;name&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&quot;&amp;nbsp; + and i am + &quot;&lt;/span&gt;&lt;font style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 127, 255);&quot;&gt;age&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&quot; + yerasold and Icome from + &quot;&lt;/span&gt;&lt;font style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(0, 102, 204);&quot;&gt;country&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&quot;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1100" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-32" value="Print result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DdiS6IfHSnTsfNtR3vpw-33" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="367.5" y="1300" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
