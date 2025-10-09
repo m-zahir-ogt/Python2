@@ -1,6 +1,3 @@
-kume = {'Sari', 'Mavi', 'Yesil', 'Kirmizi', 'Siyah'}
-print(kume)
-kume2 = {'Sari', 'Mavi', 'Yesil', "Beyaz", "Gri"}
-
-
-print (kume.intersection(kume2))
+kume = {"Schwarz", "Weiss", "Gelb", "Blau", "Grün"}
+kume2= {"Schwarz", "Weiss", "Gelb", "Blau", "Rot", "Grau", "Grün", "Black"}
+print("Grau" in kume)

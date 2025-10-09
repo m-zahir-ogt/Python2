@@ -1,17 +1,19 @@
-# it is a callBack example. custumer in restaurant put order and water deliver food
-def orderFood(foof_name:str):
-    print(f"your {food_name} deliver soon")
-
-def checkFoodExistance(foof_name:str):
-#        0    1   2     ....n
-     arr_foods =["Pizza", "Pasta", "Dönner"]
-     arr_length = len(arr_foods)
-     for i in range(arr_length)
-     
-     print(f"we have {arr_length} foods in Menü")
-          
-
-
-    #-- actusl program use upper defined methods --#
-    order_string = input("what is your order?")
-    orderFood(order_string)
+#it is a callBack example. customer in restaurant put order and waiter deliver food
+def checkFoodExistence(food_name:str)->bool:
+    arr_foods=["Pizza", "Pasta", "Döner"]
+    if food_name in arr_foods:
+        return True
+    else:
+        return False
+ 
+def orderFood(food_name:str, checkFoodExistence):
+    is_food_exists = checkFoodExistence(food_name)
+    if is_food_exists == True:
+        print(f"your {food_name} deliver soon!")
+    else:
+        print(f"sorry, we have no such food called {food_name}")
+    checkFoodExistence(food_name)
+ 
+#-- actual program use upper defined methods --#
+order_string = input("what is your order?")
+orderFood(order_string,checkFoodExistence)
